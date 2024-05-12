@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=T*1-1
+Add Component: Footprint Not Found DIOAD1405W86L465D235
+Add Pin To Net: Unknown Pin: Pin D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=T*1-1
+Added Net: Name=NetD1_2
+Add Class Member: Failed to add class member : Component D1 1N5817
+Added Room: Name=Sheet1

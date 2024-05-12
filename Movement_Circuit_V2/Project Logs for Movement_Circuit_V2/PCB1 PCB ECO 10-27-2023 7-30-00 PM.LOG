@@ -1,0 +1,31 @@
+Added Component: Designator=H*(Female_Header_20)
+Added Pin To Net: NetName=PWM3 Pin=H*-6
+Added Pin To Net: NetName=PWM4 Pin=H*-7
+Added Pin To Net: NetName=B3 Pin=H*-14
+Added Pin To Net: NetName=A3 Pin=H*-15
+Added Pin To Net: NetName=B4 Pin=H*-16
+Added Pin To Net: NetName=A4 Pin=H*-17
+Added Pin To Net: NetName=VCC Pin=H*-18
+Added Pin To Net: NetName=GND Pin=H*-19
+Added Pin To Net: NetName=NetH*_8 Pin=H*-8
+Added Pin To Net: NetName=NetH*_8 Pin=STM*1-PA_11
+Added Net: Name=NetH*_8
+Added Pin To Net: NetName=NetH*_9 Pin=H*-9
+Added Pin To Net: NetName=NetH*_9 Pin=STM*1-PA_12
+Added Net: Name=NetH*_9
+Added Pin To Net: NetName=NetH*_10 Pin=H*-10
+Added Pin To Net: NetName=NetH*_10 Pin=STM*1-PA_15
+Added Net: Name=NetH*_10
+Added Pin To Net: NetName=NetH*_11 Pin=H*-11
+Added Pin To Net: NetName=NetH*_11 Pin=STM*1-PB_3
+Added Net: Name=NetH*_11
+Added Pin To Net: NetName=NetH*_12 Pin=H*-12
+Added Net: Name=NetH*_12
+Added Pin To Net: NetName=NetH*_13 Pin=H*-13
+Added Net: Name=NetH*_13
+Added Pin To Net: NetName=NetH*_20 Pin=H*-20
+Added Pin To Net: NetName=NetH*_20 Pin=STM*1-3V3
+Added Pin To Net: NetName=NetH*_20 Pin=STM*1-3V3
+Added Net: Name=NetH*_20
+Added Member To Class: ClassName=Sheet1 Member=Component H* FEMALE_HEADER_20
+Added Room: Name=Sheet1

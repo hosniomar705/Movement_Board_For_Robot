@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=DIR4 Pin=H2-1
+Removed Pin From Net: NetName=DIR3 Pin=H2-2
+Removed Pin From Net: NetName=PWM3 Pin=H2-6
+Removed Pin From Net: NetName=PWM4 Pin=H2-7
+Removed Pin From Net: NetName=B3 Pin=H2-14
+Removed Pin From Net: NetName=A3 Pin=H2-15
+Removed Pin From Net: NetName=B4 Pin=H2-16
+Removed Pin From Net: NetName=A4 Pin=H2-17
+Removed Pin From Net: NetName=VCC Pin=H2-18
+Removed Pin From Net: NetName=GND Pin=H2-19
+Removed Member From Class: ClassName=Sheet1 Member=H2
+Added Pin To Net: NetName=NetH1_3 Pin=STM*1-3V3
+Added Pin To Net: NetName=NetH1_3 Pin=STM*1-3V3
+Added Pin To Net: NetName=GND Pin=STM*1-GND
+Added Pin To Net: NetName=GND Pin=STM*1-GND
+Added Pin To Net: NetName=GND Pin=STM*1-GND
+Added Pin To Net: NetName=NetH1_1 Pin=STM*1-GND
+Added Pin To Net: NetName=NetH1_1 Pin=STM*1-GND
+Added Pin To Net: NetName=NetH1_1 Pin=STM*1-GND
+Added Room: Name=Sheet1

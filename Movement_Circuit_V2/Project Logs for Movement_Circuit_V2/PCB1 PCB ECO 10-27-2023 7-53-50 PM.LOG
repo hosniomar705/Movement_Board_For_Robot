@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=VCC Pin=STM*-5V
+Removed Pin From Net: NetName=B2 Pin=STM*-PA_0
+Removed Pin From Net: NetName=A2 Pin=STM*-PA_1
+Removed Pin From Net: NetName=B1 Pin=STM*-PA_2
+Removed Pin From Net: NetName=A1 Pin=STM*-PA_3
+Removed Pin From Net: NetName=DIR1 Pin=STM*-PA_6
+Removed Pin From Net: NetName=PWM1 Pin=STM*-PA_7
+Removed Pin From Net: NetName=NetH2_5 Pin=STM*-PA_8
+Removed Pin From Net: NetName=PWM3 Pin=STM*-PA_9
+Removed Pin From Net: NetName=PWM4 Pin=STM*-PA_10
+Removed Pin From Net: NetName=NetH2_8 Pin=STM*-PA_11
+Removed Pin From Net: NetName=NetH2_9 Pin=STM*-PA_12
+Removed Pin From Net: NetName=NetH2_10 Pin=STM*-PA_15
+Removed Pin From Net: NetName=DIR2 Pin=STM*-PB_0
+Removed Pin From Net: NetName=PWM2 Pin=STM*-PB_1
+Removed Pin From Net: NetName=NetH2_11 Pin=STM*-PB_3
+Removed Pin From Net: NetName=NetH2_12 Pin=STM*-PB_4
+Removed Pin From Net: NetName=NetH2_13 Pin=STM*-PB_5
+Removed Pin From Net: NetName=B3 Pin=STM*-PB_6
+Removed Pin From Net: NetName=A3 Pin=STM*-PB_7
+Removed Pin From Net: NetName=B4 Pin=STM*-PB_8
+Removed Pin From Net: NetName=A4 Pin=STM*-PB_9
+Removed Pin From Net: NetName=Tx Pin=STM*-PB_10
+Removed Pin From Net: NetName=Rx Pin=STM*-PB_11
+Removed Pin From Net: NetName=DIR4 Pin=STM*-PB_12
+Removed Pin From Net: NetName=DIR3 Pin=STM*-PB_13
+Removed Pin From Net: NetName=NetH2_3 Pin=STM*-PB_14
+Removed Pin From Net: NetName=NetH2_4 Pin=STM*-PB_15
+Removed Member From Class: ClassName=Sheet1 Member=STM*
+Added Component: Designator=STM?(STM32)
+Add component (AddParameter): Name = "Design Item ID"; Value = "STM32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "MIA_LIBRARY.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetH2_20 Pin=STM?-3V3@1
+Added Pin To Net: NetName=VCC Pin=STM?-5V
+Added Pin To Net: NetName=GND Pin=STM?-GND@1
+Added Pin To Net: NetName=B2 Pin=STM?-PA_0
+Added Pin To Net: NetName=A2 Pin=STM?-PA_1
+Added Pin To Net: NetName=B1 Pin=STM?-PA_2
+Added Pin To Net: NetName=A1 Pin=STM?-PA_3
+Added Pin To Net: NetName=DIR1 Pin=STM?-PA_6
+Added Pin To Net: NetName=PWM1 Pin=STM?-PA_7
+Added Pin To Net: NetName=NetH2_5 Pin=STM?-PA_8
+Added Pin To Net: NetName=PWM3 Pin=STM?-PA_9
+Added Pin To Net: NetName=PWM4 Pin=STM?-PA_10
+Added Pin To Net: NetName=NetH2_8 Pin=STM?-PA_11
+Added Pin To Net: NetName=NetH2_9 Pin=STM?-PA_12
+Added Pin To Net: NetName=NetH2_10 Pin=STM?-PA_15
+Added Pin To Net: NetName=DIR2 Pin=STM?-PB_0
+Added Pin To Net: NetName=PWM2 Pin=STM?-PB_1
+Added Pin To Net: NetName=NetH2_11 Pin=STM?-PB_3
+Added Pin To Net: NetName=NetH2_12 Pin=STM?-PB_4
+Added Pin To Net: NetName=NetH2_13 Pin=STM?-PB_5
+Added Pin To Net: NetName=B3 Pin=STM?-PB_6
+Added Pin To Net: NetName=A3 Pin=STM?-PB_7
+Added Pin To Net: NetName=B4 Pin=STM?-PB_8
+Added Pin To Net: NetName=A4 Pin=STM?-PB_9
+Added Pin To Net: NetName=Tx Pin=STM?-PB_10
+Added Pin To Net: NetName=Rx Pin=STM?-PB_11
+Added Pin To Net: NetName=DIR4 Pin=STM?-PB_12
+Added Pin To Net: NetName=DIR3 Pin=STM?-PB_13
+Added Pin To Net: NetName=NetH2_3 Pin=STM?-PB_14
+Added Pin To Net: NetName=NetH2_4 Pin=STM?-PB_15
+Added Member To Class: ClassName=Sheet1 Member=Component STM? STM32
+Added Room: Name=Sheet1

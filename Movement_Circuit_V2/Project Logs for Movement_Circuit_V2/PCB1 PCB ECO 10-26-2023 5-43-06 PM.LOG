@@ -1,0 +1,6 @@
+Add Component: Footprint Not Found DIOAD1405W86L465D235
+Added Pin To Net: NetName=NetD1_1 Pin=fuse-1
+Added Pin To Net: NetName=NetD1_1 Pin=T*1-1
+Added Net: Name=NetD1_1
+Add Class Member: Failed to add class member : Component D1 1N5817
+Added Room: Name=Sheet1

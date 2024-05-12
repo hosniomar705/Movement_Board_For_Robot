@@ -1,0 +1,48 @@
+Added Component: Designator=H2(Female_Header_20)
+Added Pin To Net: NetName=DIR4 Pin=H2-1
+Added Pin To Net: NetName=DIR3 Pin=H2-2
+Added Pin To Net: NetName=PWM3 Pin=H2-6
+Added Pin To Net: NetName=PWM4 Pin=H2-7
+Added Pin To Net: NetName=B3 Pin=H2-14
+Added Pin To Net: NetName=A3 Pin=H2-15
+Added Pin To Net: NetName=B4 Pin=H2-16
+Added Pin To Net: NetName=A4 Pin=H2-17
+Added Pin To Net: NetName=VCC Pin=H2-18
+Added Pin To Net: NetName=GND Pin=H2-19
+Added Pin To Net: NetName=GND Pin=STM*1-GND
+Added Pin To Net: NetName=GND Pin=STM*1-GND
+Added Pin To Net: NetName=GND Pin=STM*1-GND
+Added Pin To Net: NetName=NetH1_2 Pin=STM*1-GND
+Added Pin To Net: NetName=NetH1_2 Pin=STM*1-GND
+Added Pin To Net: NetName=NetH1_2 Pin=STM*1-GND
+Added Pin To Net: NetName=NetH2_3 Pin=H2-3
+Added Pin To Net: NetName=NetH2_3 Pin=STM*1-PB_14
+Added Net: Name=NetH2_3
+Added Pin To Net: NetName=NetH2_4 Pin=H2-4
+Added Pin To Net: NetName=NetH2_4 Pin=STM*1-PB_15
+Added Net: Name=NetH2_4
+Added Pin To Net: NetName=NetH2_5 Pin=H2-5
+Added Pin To Net: NetName=NetH2_5 Pin=STM*1-PA_8
+Added Net: Name=NetH2_5
+Added Pin To Net: NetName=NetH2_8 Pin=H2-8
+Added Pin To Net: NetName=NetH2_8 Pin=STM*1-PA_11
+Added Net: Name=NetH2_8
+Added Pin To Net: NetName=NetH2_9 Pin=H2-9
+Added Pin To Net: NetName=NetH2_9 Pin=STM*1-PA_12
+Added Net: Name=NetH2_9
+Added Pin To Net: NetName=NetH2_10 Pin=H2-10
+Added Pin To Net: NetName=NetH2_10 Pin=STM*1-PA_15
+Added Net: Name=NetH2_10
+Added Pin To Net: NetName=NetH2_11 Pin=H2-11
+Added Pin To Net: NetName=NetH2_11 Pin=STM*1-PB_3
+Added Net: Name=NetH2_11
+Added Pin To Net: NetName=NetH2_12 Pin=H2-12
+Added Net: Name=NetH2_12
+Added Pin To Net: NetName=NetH2_13 Pin=H2-13
+Added Net: Name=NetH2_13
+Added Pin To Net: NetName=NetH2_20 Pin=H2-20
+Added Pin To Net: NetName=NetH2_20 Pin=STM*1-3V3
+Added Pin To Net: NetName=NetH2_20 Pin=STM*1-3V3
+Added Net: Name=NetH2_20
+Added Member To Class: ClassName=Sheet1 Member=Component H2 FEMALE_HEADER_20
+Added Room: Name=Sheet1
